@@ -7,3 +7,4 @@ balance = 10000
 cards= [1,2,3,4,5,6,7,8,9,10,10,10,10]
 menu = {1:"Go to the Casino 🎰🎲",2:"Access Inventory",3:"Go to the Bank",4:"Go to Sleep"}
 multi = 1
+poop = "poop"
