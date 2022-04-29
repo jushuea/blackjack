@@ -1,6 +1,6 @@
 import random
 import os
-from hardvalues import items,numbers,balance,cards,menu,good_items,bad_items,multi
+from hardValues import items,numbers,balance,cards,menu,good_items,bad_items,multi
 def cls():
     command = 'clear'
     if os.name in ('nt', 'dos'):  # If Machine is running on Window, use cls
